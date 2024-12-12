@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiPopupSampleProgram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+64a03762136380b888d158145b33bc4404da0694")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiPopupSampleProgram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiPopupSampleProgram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

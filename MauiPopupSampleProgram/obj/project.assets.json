@@ -35508,11 +35508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\program1\\MauiPopupSampleProgram\\MauiPopupSampleProgram\\MauiPopupSampleProgram.csproj",
+      "projectUniqueName": "C:\\program1\\MauiPopupProgram\\MauiPopupSampleProgram\\MauiPopupSampleProgram.csproj",
       "projectName": "MauiPopupSampleProgram",
-      "projectPath": "C:\\program1\\MauiPopupSampleProgram\\MauiPopupSampleProgram\\MauiPopupSampleProgram.csproj",
+      "projectPath": "C:\\program1\\MauiPopupProgram\\MauiPopupSampleProgram\\MauiPopupSampleProgram.csproj",
       "packagesPath": "C:\\Users\\佐藤小悠希\\.nuget\\packages\\",
-      "outputPath": "C:\\program1\\MauiPopupSampleProgram\\MauiPopupSampleProgram\\obj\\",
+      "outputPath": "C:\\program1\\MauiPopupProgram\\MauiPopupSampleProgram\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
