@@ -1,0 +1,1 @@
+C:\program1\MauiPopupSampleProgram\MauiPopupSampleProgram\MauiPopupSampleProgram.csproj;x64
